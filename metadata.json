@@ -1,0 +1,20 @@
+{
+  "name": "PEPOLEON",
+  "symbol": "PPLON",
+  "image": "https://raw.githubusercontent.com/Pepoleon/Pepoleon-SPL/main/pepoleon.png",
+  "description": "https://pepoleon.xyz",
+  "extensions": {
+    "website": "https://pepoleon.xyz",
+    "twitter": "https://twitter.com/PepoleonOnSol",
+    "telegram": "https://t.me/PepoleonPortal",
+    "description": "https://pepoleon.xyz",
+    "coingeckoId": "PPLON"
+  },
+  "tags": ["Meme", "Pepe", "Pepoleon"],
+  "creator": {
+    "name": "Pepoleon Development",
+    "site": "https://pepoleon.xyz"
+  },
+  "icon": "https://raw.githubusercontent.com/Pepoleon/Pepoleon-SPL/main/pepoleon.png",
+  "decimals": 6
+}
