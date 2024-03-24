@@ -1,7 +1,7 @@
 {
   "name": "PEPOLEON",
   "symbol": "PPLON",
-  "image": "https://raw.githubusercontent.com/Pepoleon/Pepoleon-SPL/main/pepoleon-logo.png",
+  "image": "https://raw.githubusercontent.com/Pepoleon/Pepoleon-SPL/main/pepoleon.jpg",
   "description": "https://pepoleon.xyz",
   "extensions": {
     "website": "https://pepoleon.xyz",
@@ -15,6 +15,6 @@
     "name": "Pepoleon Development",
     "site": "https://pepoleon.xyz"
   },
-  "icon": "https://raw.githubusercontent.com/Pepoleon/Pepoleon-SPL/main/pepoleon-logo.png",
+  "icon": "https://raw.githubusercontent.com/Pepoleon/Pepoleon-SPL/main/pepoleon.jpg",
   "decimals": 6
 }
